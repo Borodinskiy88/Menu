@@ -38,7 +38,7 @@ class IceCreamAdapter :
                 photoFood.load(iceCream.img)
                 headline.text = iceCream.name
                 textFood.text = iceCream.dsc
-                price.text = "от $iceCream.price.toString()руб."
+                price.text = iceCream.price.toString() + " руб."
 
             }
         }

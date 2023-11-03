@@ -38,7 +38,7 @@ class DrinksAdapter :
                 photoFood.load(drinks.img)
                 headline.text = drinks.name
                 textFood.text = drinks.dsc
-                price.text = "от $drinks.price.toString()руб."
+                price.text = drinks.price.toString() + " руб."
 
             }
         }

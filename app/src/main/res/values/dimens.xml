@@ -11,6 +11,7 @@
     <dimen name="size_56">56dp</dimen>
     <dimen name="size_64">64dp</dimen>
     <dimen name="size_100">100dp</dimen>
+    <dimen name="size_135">135dp</dimen>
     <dimen name="size_148">148dp</dimen>
     <dimen name="size_160">160dp</dimen>
     <dimen name="size_176">176dp</dimen>

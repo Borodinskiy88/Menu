@@ -15,7 +15,7 @@
     <color name="background_gray">#2BBEBEBE</color>
     <color name="headline_text">#222831</color>
     <color name="bottom_nav_color">#F0F0F0</color>
-
-
+    <color name="card_gray">#FBFBFB</color>
+    <color name="text_food_gray">#AAAAAD</color>
 
 </resources>
